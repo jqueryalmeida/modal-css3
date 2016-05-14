@@ -11,5 +11,7 @@ MDN: <br />
 **O exemplo pode ser visto nesse link:**<br />
 [http://wagnerssouza.github.io/modal-css3/](http://wagnerssouza.github.io/modal-css3/)
 
+O suporte para essa feature é bom!<br />
+[Can I Use](http://caniuse.com/#search=%3Atarget)
 
 

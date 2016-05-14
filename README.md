@@ -2,11 +2,14 @@
 
 Abaixo 2 sites (CSS TRICKS e MDN) que explicam bem essa pseudo-class com alguns exemplos práticos <br />
 
-**CSS TRICKS:** <br />
+CSS TRICKS: <br />
 [https://css-tricks.com/on-target/](https://css-tricks.com/on-target/)
 
-**MDN:** <br />
+MDN: <br />
 [https://developer.mozilla.org/pt-BR/docs/Web/CSS/:target](https://developer.mozilla.org/pt-BR/docs/Web/CSS/:target)
+
+**O exemplo pode ser visto nesse link:**<br />
+[http://wagnerssouza.github.io/modal-css3/](http://wagnerssouza.github.io/modal-css3/)
 
 
 
